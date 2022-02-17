@@ -21,8 +21,10 @@ Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg">
   <img height="50" src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg>
   <img height="50" src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png>
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg">
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/angular.svg">  
+    <img height="50" src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/jquery.svg>
+  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg">
+  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/angular.svg">
+  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg">  
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg">
   <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg">
   <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg">
