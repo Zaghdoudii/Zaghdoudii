@@ -21,7 +21,7 @@ Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg">
   <img height="50" src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg>
   <img height="50" src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png>
-    <img height="50" src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/jquery.svg>
+  <img height="50" src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/jquery.svg>
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg">
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/angular.svg">
   <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg">  
@@ -31,10 +31,7 @@ Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi
     
 <br>    
 <hr>
-
-
 <br/>
-
 <br/>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -63,6 +60,9 @@ Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi
 
 </p>
 
-
 <hr>
-<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+<p align = "center">
+  <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+</p>
+
+
