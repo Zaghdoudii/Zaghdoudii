@@ -6,7 +6,7 @@ Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi
 <h3> 👨🏻 About Me </h3>
 
 
-- Je suis un étudiant en deuxième année génie informatique 💻 à l'<a href="http://http://www.enit.rnu.tn/"> <b> ENIT</b>,<a href="http://www.utm.rnu.tn/utm/fr/"> <b> University Of Tunis El Manar </b>,Tunisia</a>. motivé, toujours prêt à apprendre, à relever de nouveaux défis et à plonger dans de nouvelles aventures.<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
+- Je suis un étudiant en génie informatique <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> à l'<a href="http://http://www.enit.rnu.tn/"> <b> ENIT</b>,<a href="http://www.utm.rnu.tn/utm/fr/"> <b> University Of Tunis El Manar </b>,Tunisia</a>. motivé, toujours prêt à apprendre, à relever de nouveaux défis et à plonger dans de nouvelles aventures.
 
 <br>
 <h3>🛠 Tech Stack</h3>
@@ -33,9 +33,7 @@ Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi
 <br/>
 <br/>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaghdoudii&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaghdoudii&layout=compact)
 
 <br><br>
 
