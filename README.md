@@ -9,37 +9,11 @@ Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi
 - Je suis un étudiant en génie informatique <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> à l'<a href="http://http://www.enit.rnu.tn/"> <b> ENIT</b>,<a href="http://www.utm.rnu.tn/utm/fr/"> <b> University Of Tunis El Manar </b>,Tunisia</a>. motivé, toujours prêt à apprendre, à relever de nouveaux défis et à plonger dans de nouvelles aventures.
 
 <br>
-<h3>🛠 Tech Stack</h3>
-  <p align="left">
- 
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/java.svg">
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c.svg">
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/c++.svg">
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg">
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg">
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/css.svg">
-  <img height="50" src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/javascript.svg>
-  <img height="50" src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/php.png>
-  <img height="50" src=https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/jquery.svg>
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg">
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg">
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg">  
-  <img height="50" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/cloud/github.svg">
-  <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg">
-  <img height="60" src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/databases/mysql.svg">
-    
-<br>    
-<hr>
-<br/>
-<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaghdoudii&layout=compact)
+    
 
 <br><br>
 
-
-
-<hr>
 
 
 
