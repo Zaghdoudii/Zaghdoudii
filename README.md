@@ -1,4 +1,6 @@
-Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <h2> I'm Zaghdoudi Mohamed</h2>
+Hi 
+<!-- 
+Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> <h2> I'm Zaghdoudi Mohamed</h2> 
 <img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
 
@@ -37,3 +39,4 @@ Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi
 </p>
 
 
+-->
