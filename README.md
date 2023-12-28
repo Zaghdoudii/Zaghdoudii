@@ -39,4 +39,20 @@ Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/H
 </p>
 
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zaghdoudii&show_icons=true&locale=en&layout=compact" alt="Zaghdoudii" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaghdoudii\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zaghdoudii&show_icons=true&locale=en" alt="Zaghdoudii" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaghdoudii\&layout=donut" alt="Zaghdoudii" /></p>
+
+https://github-readme-stats.vercel.app/api?username=anuraghazra\&rank_icon=github
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Zaghdoudii\&rank_icon=github" alt="Zaghdoudii" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaghdoudii\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaghdoudii\&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
